@@ -222,8 +222,10 @@ header{
 }
 
 #navbar nav {
-  border-left: #ccc;
+  border-left: 1px solid #ccc;
 }
+
+#navbar a
 /*////////// LOGO //////////*/
 
 
