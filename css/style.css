@@ -362,4 +362,8 @@ section {
 
 /*////////// FOOTER //////////*/
 
-
+footer {
+  text-algin: center;
+  font-size: 0.75em;
+  padding: ;
+}
