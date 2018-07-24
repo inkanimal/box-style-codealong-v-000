@@ -240,6 +240,7 @@ header{
 }
 
 #navbar nav .selected {
+  background: #ccc;
   
 }
 
