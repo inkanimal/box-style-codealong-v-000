@@ -242,9 +242,11 @@ header{
 #navbar nav .selected {
   background: #333;
   color: white;
-  
 }
 
+#navbar nav a:hover {
+  
+}
 
 /*////////// LOGO //////////*/
 
